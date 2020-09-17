@@ -1,2 +1,1 @@
-# Practica1
-Es la Practica 1
+SEGUNDO DIA
